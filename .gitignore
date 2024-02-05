@@ -1,0 +1,16 @@
+# Ignore the entire plugins directory
+plugins/
+
+# Ignore editor backup files
+*~
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore session-specific files
+session_*.sh
+
+# Add any other file patterns specific to your workflow
